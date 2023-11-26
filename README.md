@@ -10,18 +10,24 @@ There will be various ways of using your voice, and picture but we have not got 
 
 We are going to make a NLP project that will give us a model that can reflect our personality.
 
-##Gole of the project: 
-###I want to Build A Personal Model That can Improve our Reply and bring personal development to our social life.
+## Gole of the project: 
+### I want to Build A Personal Model That can Improve our Reply and bring personal development to our social life.
 
-##Project Details :
+## Project Details :
 Everyone holds a great deal of personal Data. We are not using it to build something personal that can reflect our personality.
 This project is all about that. We will not share our personal data with each other, instead use that project to create an infrastructure
 where we can put our data to train a model that can reflect our personality.
 
 It will be the beginning of the Pi (Personal Intelligence) journey.
 
-##What will be the final outcome?
-This NLP Project helps us to train ML and Improve our capability to train Model.
+## What will be the final outcome?
+This NLP Project helps us to train ML and Improve our capability to train Models.
 
-##And how will this benefit anyone?
-That will analyse the priority of the communication. 
+## And how will this benefit anyone?
+That will analyze the priority of the communication. 
+
+## Start The Project
+1. install requirements.txt
+2. run AiResearchWithTensorflow.ipynb
+
+
