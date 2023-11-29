@@ -1,5 +1,7 @@
 import sqlite3
+
 import pandas as pd
+
 
 class GetDataframe:
 
@@ -7,6 +9,7 @@ class GetDataframe:
         df = pd.DataFrame(database_data, columns=columns)
         print(df)
         return df
+
 
 if __name__ == "__main__":
     connection = sqlite3.connect(r"encrypted_student_finder.db")
@@ -20,5 +23,3 @@ if __name__ == "__main__":
 
     # Call frame_to_data with the fetched data and columns
     GetDataframe().frame_to_data(database_data, columns)
-
-
