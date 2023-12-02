@@ -31,4 +31,4 @@ That will analyze the priority of the communication.
 2. run AiResearchWithTensorflow.ipynb
 
 ## Socal 
-[Post](https://www.facebook.com/groups/pythonbd/permalink/6189294021171963/?mibextid=uJjRxr)https://www.facebook.com/groups/pythonbd/permalink/6189294021171963/?mibextid=uJjRxr
+[Post](https://www.facebook.com/groups/pythonbd/permalink/6189294021171963/?mibextid=uJjRxr)
