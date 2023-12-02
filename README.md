@@ -32,5 +32,6 @@ That will analyze the priority of the communication.
 
 ## Socal 
 [Facebook Post -- 1](https://www.facebook.com/groups/mlban/permalink/1733654173807355/)
+
 [Facebook Post -- 2](https://www.facebook.com/groups/pythonbd/permalink/6189294021171963/)
 
